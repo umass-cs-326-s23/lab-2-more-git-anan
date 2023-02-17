@@ -1,7 +1,7 @@
-Let's go!
+What's up 
 
 
-- Aditya Maheshwari
+- Anan Abrar
 
 
-I have add more cool things to README in the my-branch 
+I have add more cool things to README in the my-branch (fake and in game)
